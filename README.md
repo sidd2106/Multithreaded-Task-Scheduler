@@ -20,6 +20,7 @@ This repository houses a C++ implementation of a Task Scheduler, leveraging thre
 Use the provided compile.sh script to compile the project. This script compiles main.cpp, task.cpp, and TaskScheduler.cpp with the -lpthread flag to enable POSIX threading support.
 
 ./compile.sh
+
 2. **Run the Executable**:
 
 After compilation, run the generated executable to start the task scheduler and execute the tasks:
