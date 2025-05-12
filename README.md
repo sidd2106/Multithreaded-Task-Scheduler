@@ -2,10 +2,10 @@
 This repository houses a C++ implementation of a Task Scheduler, leveraging threads to facilitate concurrent task execution. It provides a foundational framework for scheduling and executing tasks in a multi-threaded environment, demonstrating the effective use of threads, mutexes, and condition variables in C++.
 
 ## Features
-Task Creation and Execution: Define tasks with specific functionalities that can be executed concurrently.
-Dynamic Task Scheduling: Tasks are queued and scheduled dynamically across multiple threads for execution.
-Thread Pool Management: Utilizes a pool of threads to execute tasks concurrently, optimizing resource use and execution time.
-Concurrency Control: Ensures thread safety through mutexes and condition variables, managing access to the task queue.
+1. __Task Creation and Execution: Define tasks with specific functionalities that can be executed concurrently.
+2. __Dynamic Task Scheduling: Tasks are queued and scheduled dynamically across multiple threads for execution.
+3. __Thread Pool Management: Utilizes a pool of threads to execute tasks concurrently, optimizing resource use and execution time.
+4.Concurrency Control: Ensures thread safety through mutexes and condition variables, managing access to the task queue.
 
 ## Getting Started
 ### File Structure
